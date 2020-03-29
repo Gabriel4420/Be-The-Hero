@@ -29,3 +29,6 @@ h1{
     margin-bottom: 32px;
 }
 
+.logon-container section.form form input{
+    color: black;
+}

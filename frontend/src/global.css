@@ -17,6 +17,7 @@ body{
 
 input, button, textarea{
     font: 400 14px Roboto, sans-serif;
+    color:black;
 }
 
 button{
@@ -27,7 +28,7 @@ button{
 form input {
     width: 100%;
     height: 40px;
-    color: #3333;
+    color: rgba(0, 0, 0, 0.2);
     border: 1px solid #dcdce6;
     border-radius: 30px;
     padding: 0 14px;
