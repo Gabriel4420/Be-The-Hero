@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel4420/mybank">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel4420/semanaOmnistack11">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriel4420/mybank?logo=html">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriel4420/semanaOmnistack11?logo=html">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gabriel4420/mybank?color=green">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gabriel4420/semanaOmnistack11?color=green">
 
   <br>
 
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/gabriel4420/mybank">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/gabriel4420/semanaOmnistack11">
 
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
     <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
@@ -35,7 +35,7 @@
 
 ## :rocket: Sobre o Projeto
 
-A proposta do .....
+A proposta do Be the hero é cadastrar causas sociais e ongs para divulgação de alguma causa ou ajuda da comunidade.
 
 ---
 
@@ -45,15 +45,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [NodeJS](https://node.com.br)
 
 ### Dependências
 
   - [Axios](https://github.com/axios/axios)
   - [React Icons](https://react-icons.github.io/react-icons/)
   - [React Router DOM](https://github.com/ReactTraining/react-router#readme)
-  - [React Spring](https://www.react-spring.io/)
   - :nail_care: [Styled Components](https://styled-components.com/)
-  - [NodeJS](https://node.com.br)
+  
 	
 ### Padronização de código
 
@@ -73,10 +73,10 @@ Para copiar o projeto, utilize os comandos:
 
 ```bash
   # Clonar o repositório
-  ❯ git clone https://github.com/jerp86/gobarber-web.git
+  ❯ git clone https://github.com/Gabriel4420/semanaOmnistack11.git
 
   # Entrar no diretório
-  ❯ cd gobarber-web
+  ❯ cd frontend | cd backend
 ```
 Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
 
