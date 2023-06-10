@@ -9,8 +9,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "knex": "^2.1.0",
-    "sqlite3": "^5.1.5"
+    "knex": "^2.4.0",
+    "sqlite3": "^5.0.8"
   },
   "devDependencies": {
     "node-pre-gyp": "0.17.0",
